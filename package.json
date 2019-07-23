@@ -1,0 +1,19 @@
+{
+  "name": "fortune500-distance-matrix",
+  "version": "1.0.0",
+  "description": "Calculating a distance matrix based on the features identified by a neural network.",
+  "main": "distance-matrix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knutsynstad/fortune500-distance-matrix.git"
+  },
+  "author": "Knut M. Synstad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knutsynstad/fortune500-distance-matrix/issues"
+  },
+  "homepage": "https://github.com/knutsynstad/fortune500-distance-matrix#readme"
+}
